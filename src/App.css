@@ -1,3 +1,21 @@
 body{
-  background-color: yellow;
+  background-color: #FFE75C;
+}
+
+h1, h2{
+  color: #27272A;
+}
+
+button{
+  font-size: 25px;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+  background-color: #FF955C;
+  color: #08060d;
+}
+
+
+button:hover {
+  background-color: #C6FF5C;
+  color: #08060d;
 }

@@ -1,5 +1,5 @@
 export function AceAttorney() {
     return(
-        <h1>Ace Attorney</h1>
+        <h2>Ace Attorney</h2>
     )
 }
